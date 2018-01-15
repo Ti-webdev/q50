@@ -1,0 +1,16 @@
+{
+  "name": "q50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "sinon": "^4.1.5"
+  }
+}
